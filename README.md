@@ -81,7 +81,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+https://youtu.be/I6-UwV0HzOc
 *Explain what the video demonstrates*
 
 # Additional Demos
