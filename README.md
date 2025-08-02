@@ -42,7 +42,7 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-(https://github.com/ArjunSNair00/Chaos-Code-Editor/tree/main/1.png)
+<img src="https://github.com/ArjunSNair00/Chaos-Code-Editor/tree/main/1.png" alt="image 1">
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
