@@ -61,7 +61,7 @@ For Software:
 
 ### Project Demo
 # Video
-[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mkv)
+https://youtu.be/I6-UwV0HzOc
 
 ## Team Contributions
 - [Name 1]: [Specific contributions]
