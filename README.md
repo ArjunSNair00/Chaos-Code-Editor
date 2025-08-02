@@ -1,39 +1,34 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [Chaos Code Editor] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: BSOD (Bro, Stop Overthinking Dude)
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Arjun S Nair] - [College Of Engineering Karunagapally]
+- Member 2: [Muhammed Raihan] - [College Of Engineering Karunagapally]
 
 ### Project Description
-[2-3 lines about what your project does]
+[The project plays flashing glitchy animations, random sounds based on presets which are triggered by keyboard input, give survival tips when you go idle, has a theme song which can be played by the start button]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[1) The code editor we use are plain and simple, no character to it .]
+[2) Laptop keyboards sound so silent. ]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[1) We present you "Chaos code editor", a memey code editor that brings your average coding experience to life, by making the process of coding more epicccc. The code editor is weird and chaotic. .]
+[2) You can hear custom sounds and random funny sounds while typing, bring coding immersive and fun. ]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [HTML, CSS, JS]
+- [Web Audio API]
+- [Fl Studio]
 
 ### Implementation
 For Software:
