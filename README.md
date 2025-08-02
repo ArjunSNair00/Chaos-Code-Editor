@@ -21,7 +21,7 @@
 
 ### The Solution (that nobody asked for)
 [1) We present you "Chaos code editor", a memey code editor that brings your average coding experience to life, by making the process of coding more epicccc. The code editor is weird and chaotic. .]
-[2) You can hear custom sounds and random funny sounds while typing, bring coding immersive and fun. ]
+[2) You can hear custom sounds and random funny sounds while typing, bring coding immersive and fun. It also features a silly track I made using meme sounds]
 
 ## Technical Details
 ### Technologies/Components Used
