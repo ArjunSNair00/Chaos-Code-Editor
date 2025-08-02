@@ -31,7 +31,7 @@ For Software:
 - [Fl Studio]
 
 ### Implementation
-For Software:
+For Software: 
 # Installation
 [commands]
 
@@ -62,9 +62,6 @@ For Software:
 ### Project Demo
 # Video
 [![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mkv)
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - [Name 1]: [Specific contributions]
