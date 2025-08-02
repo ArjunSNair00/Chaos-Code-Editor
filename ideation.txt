@@ -1,0 +1,17 @@
+Team Name:- BSOD  (Bro, Stop Overthinking Dude)
+Team Members:- Arjun S Nair, Muhammed Raihan
+Project Name: Chaos Code Editor
+
+Problem that didnt exist: you didnt like your code editor experience and how your laptop keyboard sounds.
+
+Solution/Idea: We present you "Chaos" IDE, a memey code editor that brings your average coding experience to life with our code editor, making the process of coding more epicccc. The code editor is weird and chaotic. you can hear custom keyboard and funny sounds when typing, bring coding immersive and fun.
+this is basically if coding was a weird anime.
+
+a useless html code editor which displays flashy effects and plays random sounds when you type in it (almost unbearable sounds, though there is ASMR, music mode in it for the sounds),
+their is an assistant named 'thankanchetan' which gives you tips when coding (not useful tips), he gives load screen tips when you are idle or not typing for a while (overly dramatic and not useful tips btw)
+
+random sounds triggered on keyboard input (we can change its pitch or key), sounds are: piano sound, goofy meme sounds, drum sounds, animal sounds and other instruments and sounds you haven't heard of
+
+flashing animations, triggered when typing faster, fire particles on your text insert cursor when typing 
+
+Caption: Your laptop keyboard sounds trash??? Here is the ultimate solution to your problem, are you angry? each stroke sounds angry..... are your sad? each note triggers a sad piano..... are you in happy?? every keystroke sounds in key and in rythm...... it also responds to what you don't type....... there is also a score for highest words per minute without getting insane.

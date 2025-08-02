@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<head>
+  <title>Chaos Code Editor</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="explosion-left"></div>
+  <div class="explosion-right"></div>
+  <div class="running-lights" id="runningLights">
+    <div class="light"></div>
+    <div class="light"></div>
+    <div class="light"></div>
+    <div class="light"></div>
+    <div class="light"></div>
+    <div class="light"></div>
+    <div class="light"></div>
+    <div class="light"></div>
+  </div>
+
+  <div class="slider-container">
+    <label for="gainslider">Volume:</label>
+    <input type="range" id="gainslider" min="0" max="1" value="0.4" step="0.01">
+  </div>
+
+  <div class="container">
+    <h2>Chaos Code Editor</h2>
+    <textarea id="rageBox" placeholder="Type with rage..."></textarea>
+  </div>
+
+  <div class="controls">
+    <label for="sounds">Sound preset:</label>
+    <select name="sounds" id="sounds">
+      <option value="">--Choose an option--</option>
+      <option value="piano" selected>Piano</option>
+      <option value="memes">Memes</option>
+      <option value="drums">Drums</option>
+      <option value="guitar">Guitar</option>
+    </select>
+
+    <label>
+      <input type="checkbox" id="cutToggle"> Cut previous sound
+    </label>
+
+    <label>
+      <input type="checkbox" id="bpmToggle"> Enable BPM Effects
+    </label>
+    <label>
+      BPM: <input type="number" id="bpmInput" value="163" min="30" max="300">
+    </label>
+
+    <div>
+      <button onclick="adjustPitch(-1)">Pitch -</button>
+      <button onclick="adjustPitch(1)">Pitch +</button>
+    </div>
+
+    <div>
+      <button onclick="playTheme()">Play</button>
+      <button onclick="pauseTheme()">Pause</button>
+      <button onclick="restartTheme()">Restart</button>
+    </div>
+  </div>
+    <div id="tipOverlay" style="display: none;">
+    <div class="tip-box"></div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
