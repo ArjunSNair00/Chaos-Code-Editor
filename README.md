@@ -81,8 +81,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-<video src="https://youtu.be/I6-UwV0HzOc" width="320" height="240" controls></video>
-*Explain what the video demonstrates*
+[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
 
 # Additional Demos
 [Add any extra demo materials/links]
