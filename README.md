@@ -1,4 +1,4 @@
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+<img width="1920" height="869" alt="1" src="https://github.com/user-attachments/assets/cc9dbcbe-2599-4d59-bbc7-57d7d97372ca" /><img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
 # [Chaos Code Editor] 🎯
@@ -42,7 +42,11 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-<img src="https://github.com/ArjunSNair00/Chaos-Code-Editor/tree/main/1.png" alt="image 1">
+<img width="1920" height="869" alt="1" src="https://github.com/user-attachments/assets/b1eefe4c-86b7-461a-95a5-92f02190c3ce" />
+<img width="1920" height="885" alt="2" src="https://github.com/user-attachments/assets/4823d532-08cb-4b1b-8db4-8d33b9bff50c" />
+<img width="1920" height="877" alt="3" src="https://github.com/user-attachments/assets/3f5252d0-0667-4438-af6b-6f35f5ab9dcd" />
+
+
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
