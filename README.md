@@ -81,7 +81,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
+[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mkv)
 
 # Additional Demos
 [Add any extra demo materials/links]
