@@ -64,7 +64,7 @@ For Software:
 https://youtu.be/I6-UwV0HzOc
 
 ## Team Contributions
-- Arjun S Nair: Everything: frontend, sounds, music
+- Arjun S Nair:   Everything:- frontend, sounds, music
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
