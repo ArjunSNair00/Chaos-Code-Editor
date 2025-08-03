@@ -64,8 +64,7 @@ For Software:
 https://youtu.be/I6-UwV0HzOc
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
+- [Arjun S Nair]: [Everything: frontend, sounds, music]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
